@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1179-reformat-department-table](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/1179-reformat-department-table) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
