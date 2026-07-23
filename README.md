@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
