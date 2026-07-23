@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/VaibhaviSutar/Leetcode_QA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
